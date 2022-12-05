@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Rp"
+        android:title="Rp"/>
+    <item android:id="@+id/dollar"
+        android:title="$"/>
+    <item android:id="@+id/euro"
+        android:title="€"/>
+    <item android:id="@+id/poundS"
+        android:title="£"/>
+    <item android:id="@+id/yen"
+        android:title="¥"/>
+</menu>
